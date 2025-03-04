@@ -26,3 +26,10 @@ The Coding Club website is a landing page for parents and children looking for a
 
 ## How to View the Project
 - [View the deployed website](https://username.github.io/codingclub/)
+
+## Markdown practice
+
+Building | a table | with markdown
+--- | --- | ---
+*Italic text* | **bold text** | inline code
+42 | 400 | 97 
